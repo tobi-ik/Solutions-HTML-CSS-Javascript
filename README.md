@@ -9,7 +9,7 @@
 
 # Outputs :
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+* [Module-2](https://tobi-ik.github.io/Solutions-HTML-CSS-Javascript/Assignments/module-2/)
+* [Module-3](https://tobi-ik.github.io/Solutions-HTML-CSS-Javascript/Assignments/module-3/)
+* [Module-4](https://tobi-ik.github.io/Solutions-HTML-CSS-Javascript/Assignments/module-4/)
+* [Module-5](https://tobi-ik.github.io/Solutions-HTML-CSS-Javascript/Assignments/module-5/)
